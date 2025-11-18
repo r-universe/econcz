@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "rclsp"]
+	path = rclsp
+	url = https://github.com/econcz/rclsp
 [submodule "rconvertu"]
 	path = rconvertu
 	url = https://github.com/econcz/rconvertu
