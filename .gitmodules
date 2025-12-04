@@ -8,3 +8,9 @@
 [submodule "rconvertu"]
 	path = rconvertu
 	url = https://github.com/econcz/rconvertu
+[submodule "rlppinv"]
+	path = rlppinv
+	url = https://github.com/econcz/rlppinv
+[submodule "rtmpinv"]
+	path = rtmpinv
+	url = https://github.com/econcz/rtmpinv
