@@ -14,3 +14,6 @@
 [submodule "rtmpinv"]
 	path = rtmpinv
 	url = https://github.com/econcz/rtmpinv
+[submodule "rtmpinvi"]
+	path = rtmpinvi
+	url = https://github.com/econcz/rtmpinvi
