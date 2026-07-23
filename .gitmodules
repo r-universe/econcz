@@ -11,6 +11,9 @@
 [submodule "rlppinv"]
 	path = rlppinv
 	url = https://github.com/econcz/rlppinv
+[submodule "rpanelrev"]
+	path = rpanelrev
+	url = https://github.com/econcz/rpanelrev
 [submodule "rtmpinv"]
 	path = rtmpinv
 	url = https://github.com/econcz/rtmpinv
